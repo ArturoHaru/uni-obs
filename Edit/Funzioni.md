@@ -1,0 +1,6 @@
+[[Funzioni Parziali]]
+[[Funzioni Totali]]
+[[Predicato]]
+[[Calcolabilità]]
+[[Composizione di Funzioni]]
+[[Funzioni Primitive Ricorsive]]
